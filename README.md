@@ -6,3 +6,4 @@
 ```
 ./mvnw clean package -DskipTests
 ```
+Abrir [http](http://localhost:8080/)
